@@ -1,0 +1,7 @@
+1.conda activate yolo-env1 
+
+2.cd C:\Users\praful pawar\Desktop\FinalProject_Code\my_model
+
+3.python yolo_detect.py --model my_model.pt --source usb0 --resolution 1280x720
+
+conda activate yolo-env1 & cd "C:\Users\praful pawar\Desktop\FinalProject_Code\my_model" & python yolo_detect.py --model my_model.pt --source usb0 --resolution 1280x720
