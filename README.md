@@ -1,5 +1,8 @@
 ## 📷 Project Image
-![Smart Divider]()
+## 📽️ Project Demo Video
+
+[🎬 Click here to watch the demo video](https://github.com/PRAFULPAWAR8888/SmartRoadDivider-AmbulancePathoptimization/blob/63a34465d2394838c538dd6d6b2bad786c5f8018/video1.mp4?raw=true)
+
 
 
 ## 📷 Project Image
