@@ -1,9 +1,9 @@
-## 📷 Project Image
+
+
+
 ## 📽️ Project Demo Video
 
-[🎬 Click here to watch the demo video](https://github.com/PRAFULPAWAR8888/SmartRoadDivider-AmbulancePathoptimization/blob/63a34465d2394838c538dd6d6b2bad786c5f8018/video1.mp4?raw=true)
-
-
+[![Watch the video](https://img.youtube.com/vi/p1ak0JIgG28/0.jpg)](https://youtu.be/p1ak0JIgG28)
 
 ## 📷 Project Image
 
